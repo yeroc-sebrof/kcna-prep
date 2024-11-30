@@ -1,0 +1,3 @@
+custom-resources.yaml
+tigera-operator.yaml
+join-cluster.sh
